@@ -1,0 +1,17 @@
+{
+  "id": "fummicc1/fummicc1-cassava",
+  "id_no": 32622598,
+  "title": "fummicc1 - Cassava -",
+  "code_file": "fummicc1-cassava.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "competitions/cassava-leaf-disease-classification"
+  ]
+}

@@ -1,0 +1,6 @@
+pandas
+numpy
+IPython
+tqdm
+torch
+torchvision
