@@ -4,3 +4,4 @@ IPython
 tqdm
 torch
 torchvision
+matplotlib
