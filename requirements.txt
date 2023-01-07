@@ -7,3 +7,4 @@ torchvision
 matplotlib
 wandb
 scikit-learn
+albumentations
